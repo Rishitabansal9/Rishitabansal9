@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-rishita-bansal-589056143/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishita-bansal-589056143/)
+[![Linkedin](https://img.shields.io/badge/-rishita--bansal--589056143-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishita-bansal-589056143/)
 [![Gmail](https://img.shields.io/badge/-rishitabansal2004-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rishitabansal2004@gmail.com)
 [![Medium](https://img.shields.io/badge/-@rishitabansal2004-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@rishitabansal2004)
 
