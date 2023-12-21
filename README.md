@@ -21,19 +21,19 @@
 
 ### ⏳ Challenges on board:
 I decided to focus myself on feeding more knowledge📙to my brain.
-I set a couple of self-challenges in order to push myself more further.🏃‍♀️ 
+I set a couple of self-challenges to push myself more further.🏃‍♀️ 
 * Learn to code👩‍💻:5-6 hours a day with no distraction ( One or two day off a week. ) 
 * Dance:💃🏻 : To relieve stress.
-* Adapting the minimalism life style
+* Adapting the minimalist life style
 * 🔜
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages and Tools: 
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/Rishitabansal9">
-    <img width="400" height="300" align="right" alt="Rishita Bansal's github stats" 
+    <img width="460" height="300" align="right" alt="Rishita Bansal's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=Rishitabansal9&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
-   <!-- <img width="40%" height="300" align="right" alt="Rishita Bansal's github stats" 
+   <!-- <img width="30%" height="300" align="right" alt="Rishita Bansal's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishitabansal9&layout=compact" />
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github. -->
+NOTE: Top languages do not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github. -->
   </a>
 </p>
 
