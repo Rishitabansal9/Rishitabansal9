@@ -29,7 +29,7 @@ I set a couple of self-challenges in order to push myself more further.🏃‍�
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages and Tools: 
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/Rishitabansal9">
-    <img width="460" height="300" align="right" alt="Rishita Bansal's github stats" 
+    <img width="400" height="300" align="right" alt="Rishita Bansal's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=Rishitabansal9&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
    <!-- <img width="40%" height="300" align="right" alt="Rishita Bansal's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishitabansal9&layout=compact" />
