@@ -31,7 +31,7 @@ I set a couple of self-challenges to push myself more further.🏃‍♀️
   <a href="https://gitstats.me/Rishitabansal9">
     <img width="460" height="300" align="right" alt="Rishita Bansal's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=Rishitabansal9&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
-   <!-- <img width="30%" height="300" align="right" alt="Rishita Bansal's github stats" 
+   <!-- <img width="50%" height="300" align="right" alt="Rishita Bansal's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishitabansal9&layout=compact" />
 NOTE: Top languages do not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github. -->
   </a>
@@ -43,6 +43,6 @@ NOTE: Top languages do not indicate my skill level or something like that, it's 
 
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rishitabansal9&theme=graywhite&hide_border=false)<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishitabansal9&theme=graywhite&hide_border=false" alt="GitHub Streak Stats" width="500" height="200"> </br>
 ![](https://github-profile-trophy.vercel.app/?username=Rishitabansal9&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
